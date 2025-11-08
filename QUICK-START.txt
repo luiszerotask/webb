@@ -1,0 +1,89 @@
+╔═══════════════════════════════════════════════════════════╗
+║                 ZEROTASKIA WEBSITE                        ║
+║            Static Files - Ready to Deploy                 ║
+╚═══════════════════════════════════════════════════════════╝
+
+🚀 QUICK START - 3 SIMPLE STEPS
+═══════════════════════════════════════════════════════════
+
+1. Extract this ZIP file to any location
+
+2. Upload ALL files to your web hosting:
+   ├── index.html
+   ├── static/
+   │   ├── css/
+   │   └── js/
+   └── asset-manifest.json
+
+3. Access your website through your domain!
+
+
+📤 EASIEST HOSTING OPTIONS (Drag & Drop)
+═══════════════════════════════════════════════════════════
+
+• Netlify (netlify.com) - FREE
+  → Drag the entire folder to Netlify
+  → Get instant HTTPS and custom domain
+
+• Vercel (vercel.com) - FREE
+  → Import folder via web interface
+  → Automatic SSL and global CDN
+
+• GitHub Pages - FREE
+  → Push to repository
+  → Enable Pages in settings
+
+
+🌐 WHAT YOU GET
+═══════════════════════════════════════════════════════════
+
+✓ Fully responsive landing page
+✓ Interactive 3D animation
+✓ Contact form with validation
+✓ Dark theme design
+✓ Production optimized
+✓ Mobile-friendly
+✓ Fast loading (~1.5MB total)
+
+
+📝 FILES INCLUDED
+═══════════════════════════════════════════════════════════
+
+index.html - Main page
+static/css/ - All styles (minified)
+static/js/ - All scripts (minified)
+README.txt - Detailed documentation
+QUICK-START.txt - This file
+
+
+⚙️ CUSTOMIZATION
+═══════════════════════════════════════════════════════════
+
+The files are production-ready and minified. For text changes:
+• Edit index.html carefully (advanced users only)
+• Or keep the source React code for easier updates
+
+
+📧 CONTACT FORM NOTE
+═══════════════════════════════════════════════════════════
+
+Current form stores data in browser (demo mode).
+
+To receive real submissions:
+→ Use Formspree.io (free tier available)
+→ Use Netlify Forms (built-in)
+→ Or connect your own backend
+
+
+🎯 YOUR WEBSITE IS READY!
+═══════════════════════════════════════════════════════════
+
+All files are production-optimized and ready to go live.
+Simply upload to any web host and you're done!
+
+For detailed instructions, see README.txt
+
+
+══════════════════════════════════════════════════════════
+Built with ❤️ | ZeroTaskIA | 2025
+══════════════════════════════════════════════════════════
